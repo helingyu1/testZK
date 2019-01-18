@@ -7,7 +7,7 @@
     <groupId>com.hly</groupId>
     <artifactId>testZK</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <!-- add a coment here -->
     <dependencies>
         <dependency>
             <groupId>org.apache.curator</groupId>
